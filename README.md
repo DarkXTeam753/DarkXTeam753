@@ -1,7 +1,1 @@
-.__   __.   ______   .___________. __    __   __  .__   __.   _______ 
-|  \ |  |  /  __  \  |           ||  |  |  | |  | |  \ |  |  /  _____|
-|   \|  | |  |  |  | `---|  |----`|  |__|  | |  | |   \|  | |  |  __  
-|  . `  | |  |  |  |     |  |     |   __   | |  | |  . `  | |  | |_ | 
-|  |\   | |  `--'  |     |  |     |  |  |  | |  | |  |\   | |  |__| | 
-|__| \__|  \______/      |__|     |__|  |__| |__| |__| \__|  \______| 
-                                                                      
+nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing nothing 
